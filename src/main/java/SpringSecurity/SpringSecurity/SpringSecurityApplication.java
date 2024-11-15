@@ -8,7 +8,7 @@ public class SpringSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityApplication.class, args);
-		System.out.println("Arumugam in Branch 2")
+		System.out.println("Lokesh in Branch 1")
 	}
 
 }
